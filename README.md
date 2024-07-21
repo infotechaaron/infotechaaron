@@ -1,7 +1,7 @@
-<h1>Hi, I'm Aaron! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Aaron! <br/><a href="https://github.com/joshmadakor1">System Admin</a>, <a href="https://www.linkedin.com/in/joshmadakor/">BSc Network Engineer Graduate</a>, <a href="https://www.youtube.com/c/joshmadakor">Aspiring Network and/or Security Engineer</a></h1>
 
 
-<h2>👨‍💻 IT System Administration Projects:</h2>
+<h2>👨‍💻 System Admin Projects:</h2>
 
 - <b>PowerShell</b>
   - [Active Directory Deployment and Bulk User Creation using PowerShell](https://github.com/joshmadakor1/AD_PS)
@@ -10,7 +10,23 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
- <h2>📺 Certifications</h2>
+<h2>👨‍💻 Network Projects:</h2>
+
+- <b>Cisco</b>
+  - [Active Directory Deployment and Bulk User Creation using PowerShell](https://github.com/joshmadakor1/AD_PS)
+
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Malware Analysis</b>
+  - [Active Directory Deployment and Bulk User Creation using PowerShell](https://github.com/joshmadakor1/AD_PS)
+
+
+
+<h2>📺 Certifications</h2>
 
   - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
   - [Network+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
