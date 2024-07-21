@@ -50,15 +50,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<p dir="auto"><a href="https://www.youtube.com/c/joshmadakor" rel="nofollow"><img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://camo.githubusercontent.com/07b99ba0a719dd3b7423e3d0e08fa8a89c70d82b1821fb77e8bf1b149148788f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f796f75747562652e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width: 100%;"></a>
+<a href="https://twitter.com/joshmadakor" rel="nofollow"><img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://camo.githubusercontent.com/e79923baf40dbed106e9e4565a47faf8c3b6a117ec22165304a4bfbf2b15215f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/joshmadakor" rel="nofollow"><img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://camo.githubusercontent.com/66ddc0c3999080e866e531e40a816db84150a1d75788a686102b0e66c8b4ecfb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/joshmadakor/" rel="nofollow"><img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://camo.githubusercontent.com/77812356a8482a8660b760474ebb0f2fbf1026aa8a68121a45a31a5602c710fb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;"></a></p>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
