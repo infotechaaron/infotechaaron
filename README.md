@@ -1,5 +1,6 @@
 <h1>Hi, I'm Aaron! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
+
 <h2>👨‍💻 IT System Administration Projects:</h2>
 
 - <b>PowerShell</b>
@@ -11,15 +12,14 @@
 
  <h2>📺 Certifications</h2>
 
-- [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Network+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Security+](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [AWS Certified Clould Practioner](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [ITIL v4](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Network+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+  - [Security+](https://www.youtube.com/watch?v=N-L9hklSlNk)
+  - [AWS Certified Clould Practioner](https://www.youtube.com/watch?v=OfvdQeh79s0)
+  - [ITIL v4](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-
-
-<!--<h2>📺 Popular YouTube Videos</h2>
+<!--
+<h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
