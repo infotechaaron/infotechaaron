@@ -4,7 +4,7 @@
 <h2>👨‍💻 System Admin Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Deployment and Bulk User Creation using PowerShell](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Deployment and Bulk User Creation using PowerShell]((https://github.com/infotechaaron/ActiveDirectoryLab))
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
