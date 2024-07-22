@@ -28,6 +28,13 @@
 
 <br>
 
+<h2>👨‍💻 Cloud Projects:</h2>
+
+  - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory)
+
+<br>
+
+
 <h2>📺 Certifications</h2>
 
   - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
