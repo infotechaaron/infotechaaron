@@ -45,7 +45,7 @@
   - <a href="https://www.credly.com/badges/999fe27e-da11-4d6a-97e4-aa5f2a5c610a" target="_blank">CompTIA Secure Infrastructure Specialist</a>
   - <a href="https://www.credly.com/badges/2a28635e-fbcc-4c54-a56d-123971288de7" target="_blank">AWS Certified Clould Practioner</a>
   - ITIL v4 Foundation Certificate in IT Service Management</a>
-  - <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000535123/fg59tf2ufb" target="_blank">LPI Linux Essentials</a>
+  - <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000535123/fg59tf2ufb" target="_myFrame">LPI Linux Essentials</a>
 
 <br>
 
