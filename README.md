@@ -13,7 +13,7 @@
 <h2>👨‍💻 Network Projects:</h2>
 
 - <b>Cisco</b>
-  - [Active Directory Deployment and Bulk User Creation using PowerShell](https://github.com/joshmadakor1/AD_PS)
+  - [Cisco Security: Device Hardening Configuration](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco%20Networking%20Projects/Cisco%20Security%3A%20Device%20Hardening%20Configuration.md)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
