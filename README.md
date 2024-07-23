@@ -34,14 +34,18 @@
   - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller (pt2)](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory/blob/main/AzureVM_and_AD_part2.md)
 <br>
 
-
 <h2>📺 Certifications</h2>
 
-  - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  - [Network+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-  - [Security+](https://www.youtube.com/watch?v=N-L9hklSlNk)
-  - [AWS Certified Clould Practioner](https://www.youtube.com/watch?v=OfvdQeh79s0)
-  - [ITIL v4](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  - <a href="https://www.credly.com/badges/1e033cc6-c86a-4240-8d4c-46891c6e6daa" target="_blank">Cisco Certified Network Associate - CCNA</a>
+  - <a href="https://www.credly.com/badges/4d0b469e-0a6c-4141-bafa-8499a67f1fb7" target="_blank">CompTIA Network+</a>
+  - <a href="https://www.credly.com/badges/f8c2e526-9262-40db-bb5c-3607ee723d33" target="_blank">CompTIA Security+</a>
+  - <a href="https://www.credly.com/badges/f8c2e526-9262-40db-bb5c-3607ee723d33" target="_blank">CompTIA Security+</a>
+  - <a href="https://www.credly.com/badges/f4b149cb-6ed0-4118-8840-01aab4c7de7b" target="_blank">CompTIA A+</a>
+  - <a href="https://www.credly.com/badges/cc4d2e7a-7b65-4b5f-9735-df76a4bbcdd6" target="_blank">CompTIA IT Operations Specialist</a>
+  - <a href="https://www.credly.com/badges/999fe27e-da11-4d6a-97e4-aa5f2a5c610a" target="_blank">CompTIA Secure Infrastructure Specialist</a>
+  - <a href="https://www.credly.com/badges/2a28635e-fbcc-4c54-a56d-123971288de7" target="_blank">AWS Certified Clould Practioner</a>
+  - ITIL v4 Foundation Certificate in IT Service Management</a>
+  - <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000535123/fg59tf2ufb" target="_blank">LPI Linux Essentials</a>
 
 <br>
 
