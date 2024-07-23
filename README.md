@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron! <br/><a href="https://github.com/infotechaaron/">System Admin</a>, <a href="https://www.linkedin.com/in/aguild/">Recent Network Engineer Grad</a>, <a href="https://www.linkedin.com/in/aguild/details/education/">Cybersecurity Nerd</a></h1>
+<h1>Hi, I'm Aaron! <br/><a href="https://github.com/infotechaaron/">System Admin</a>, <a href="https://www.linkedin.com/in/aguild/">Recent Network Engineer Grad</a>, <a href="https://github.com/infotechaaron/">Cybersecurity Nerd</a></h1>
 <br>
 
 <h2>👨‍💻 System Admin Projects:</h2>
