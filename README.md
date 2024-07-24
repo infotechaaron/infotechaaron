@@ -23,8 +23,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Malware Analysis</b>
-  - [Active Directory Deployment and Bulk User Creation using PowerShell](https://github.com/joshmadakor1/AD_PS)
+  - [Vulnerability Scanning and Vulnerability Remediation Using Tenable Nessus - coming soon!](https://github.com/infotechaaron/Vulnerability-Scanning/)
 
 <br>
 
