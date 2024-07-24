@@ -12,9 +12,10 @@
 
 <h2>👨‍💻 Network Projects:</h2>
 
-- <b>Cisco</b>
+- <b>Cisco (CCNA)</b>
   - [Cisco Security: Device Hardening Configuration](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco%20Networking%20Projects/Cisco%20Security%3A%20Device%20Hardening%20Configuration.md)
   - [SSH Configuration on a Cisco Switch](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco%20Networking%20Projects/SSH-Configuration-on-a-Cisco-Switch.md)
+  - [Variable Length Subnet Mask](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco%20Networking%20Projects/Variable-Length-Subnet-Mask.md)
 - <b>Python</b>
   - Coming Soon!
 <br>
