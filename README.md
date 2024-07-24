@@ -14,9 +14,9 @@
 
 - <b>Cisco</b>
   - [Cisco Security: Device Hardening Configuration](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco%20Networking%20Projects/Cisco%20Security%3A%20Device%20Hardening%20Configuration.md)
+  - [SSH Configuration on a Cisco Switch](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco%20Networking%20Projects/SSH-Configuration-on-a-Cisco-Switch.md)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - Coming Soon!
 <br>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
