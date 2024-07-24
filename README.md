@@ -13,9 +13,10 @@
 <h2>👨‍💻 Network Projects:</h2>
 
 - <b>Cisco (CCNA)</b>
-  - [Cisco Security: Device Hardening Configuration](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco%20Networking%20Projects/Cisco%20Security%3A%20Device%20Hardening%20Configuration.md)
-  - [SSH Configuration on a Cisco Switch](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco%20Networking%20Projects/SSH-Configuration-on-a-Cisco-Switch.md)
-  - [Variable Length Subnet Mask](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco%20Networking%20Projects/Variable-Length-Subnet-Mask.md)
+  - [Cisco Security: Device Hardening Configuration](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/Cisco-Security_Device-Hardening-Configuration.md)
+  - [SSH Configuration on a Cisco Switch](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/SSH-Configuration-on-a-Cisco-Switch.md)
+  - [Variable Length Subnet Mask](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/Variable-Length-Subnet-Mask.md)
+  - [VLANs with EtherChannel Configuration Network Design](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/VLANs-with-EtherChannel-Network-Design.md)
 - <b>Python</b>
   - Coming Soon!
 <br>
