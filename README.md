@@ -1,6 +1,14 @@
 <h1>Hi, I'm Aaron! <br/><a href="https://github.com/infotechaaron/">System Admin</a>, <a href="https://www.linkedin.com/in/aguild/">Recent Network Engineer Grad</a>, <a href="https://github.com/infotechaaron/">Cybersecurity Nerd</a></h1>
 <br>
 
+<br>
+
+<h2>👨‍💻 Cloud Projects:</h2>
+
+  - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller (pt1)](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory/blob/main/AzureVM_and_AD_part1.md)
+  - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller (pt2)](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory/blob/main/AzureVM_and_AD_part2.md)
+<br>
+
 <h2>👨‍💻 System Admin Projects:</h2>
 
 - <b>PowerShell</b>
@@ -23,12 +31,6 @@
 
   - [Vulnerability Scanning and Vulnerability Remediation Using Tenable Nessus - coming soon!](https://github.com/infotechaaron/Vulnerability-Scanning/)
 
-<br>
-
-<h2>👨‍💻 Cloud Projects:</h2>
-
-  - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller (pt1)](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory/blob/main/AzureVM_and_AD_part1.md)
-  - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller (pt2)](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory/blob/main/AzureVM_and_AD_part2.md)
 <br>
 
 <h2>📺 Certifications</h2>
