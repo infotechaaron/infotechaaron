@@ -25,6 +25,7 @@
   - [SSH Configuration on a Cisco Switch](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/SSH-Configuration-on-a-Cisco-Switch.md)
   - [Variable Length Subnet Mask](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/Variable-Length-Subnet-Mask.md)
   - [VLANs with EtherChannel Configuration Network Design](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/VLANs-with-EtherChannel-Network-Design.md)
+  - [HSRP Configuration on Cisco Routers (load-balancing)](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/HSRP-Configuration.md)
 <br>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
