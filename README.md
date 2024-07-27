@@ -24,11 +24,11 @@
   - [VLANs with EtherChannel Configuration Network Design](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/VLANs-with-EtherChannel-Network-Design.md)
   - [HSRP Configuration on Cisco Routers (load-balancing)](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/HSRP-Configuration.md)
 
-<h2>🕵 Cybersecurity Projects:</h2>
+<h2>🔒 Cybersecurity Projects:</h2>
 
   - [Vulnerability Scanning and Vulnerability Remediation Using Tenable Nessus - coming soon!](https://github.com/infotechaaron/Vulnerability-Scanning/)
 
-<h2>🎖 Certifications</h2>
+<h2>🛡 Certifications</h2>
 
   - <a href="https://www.credly.com/badges/1e033cc6-c86a-4240-8d4c-46891c6e6daa" target="_blank">Cisco Certified Network Associate - CCNA</a>
   - <a href="https://www.credly.com/badges/4d0b469e-0a6c-4141-bafa-8499a67f1fb7" target="_blank">CompTIA Network+</a>
