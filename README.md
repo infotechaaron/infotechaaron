@@ -3,7 +3,7 @@
 
 <br>
 
-<h2>👨‍💻 Cloud Projects:</h2>
+<h2>⛅ Cloud Projects:</h2>
 
   - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller (pt1)](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory/blob/main/AzureVM_and_AD_part1.md)
   - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller (pt2)](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory/blob/main/AzureVM_and_AD_part2.md)
