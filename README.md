@@ -7,6 +7,8 @@
 
   - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller (pt1)](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory/blob/main/AzureVM_and_AD_part1.md)
   - [Azure Virtual Machine Creation used to host an Active Directory Domain Controller (pt2)](https://github.com/infotechaaron/AzureVirtualMachine_ActiveDirectory/blob/main/AzureVM_and_AD_part2.md)
+  - Deploying a full network infrastructure on Microsoft Azure - Coming Soon!
+  - Deploying a full network infrastructure on Amazon Web Services - Coming Soon!
 
 <h2>💾 System Admin Projects:</h2>
 
@@ -23,6 +25,7 @@
   - [Variable Length Subnet Mask](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/Variable-Length-Subnet-Mask.md)
   - [VLANs with EtherChannel Configuration Network Design](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/VLANs-with-EtherChannel-Network-Design.md)
   - [HSRP Configuration on Cisco Routers (load-balancing)](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/HSRP-Configuration.md)
+  - Monitor and analyze network traffic using Wireshark - Coming Soon!
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
