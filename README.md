@@ -27,6 +27,7 @@
   - [VLANs with EtherChannel Configuration Network Design](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/VLANs-with-EtherChannel-Network-Design.md)
   - [HSRP Configuration on Cisco Routers (load-balancing)](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/HSRP-Configuration.md)
   - Wireless Lan Controller (WLC) Configuration - Coming Soon!
+  - OSPF Configuration (Single Area) - Coming Soon!
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
