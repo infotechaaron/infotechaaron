@@ -20,12 +20,13 @@
 <h2>🌎 Network Projects:</h2>
 
 - <b>Cisco (CCNA)</b>
+  - Monitor and analyze network traffic using Wireshark - Coming Soon!
   - [Cisco Security: Device Hardening Configuration](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/Cisco-Security_Device-Hardening-Configuration.md)
   - [SSH Configuration on a Cisco Switch](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/SSH-Configuration-on-a-Cisco-Switch.md)
   - [Variable Length Subnet Mask](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/Variable-Length-Subnet-Mask.md)
   - [VLANs with EtherChannel Configuration Network Design](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/VLANs-with-EtherChannel-Network-Design.md)
   - [HSRP Configuration on Cisco Routers (load-balancing)](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/HSRP-Configuration.md)
-  - Monitor and analyze network traffic using Wireshark - Coming Soon!
+  - Wireless Lan Controller (WLC) Configuration - Coming Soon!
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
