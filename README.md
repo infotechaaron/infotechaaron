@@ -29,7 +29,7 @@
   - OSPF Configuration (Single Area) - Coming Soon!
   - [Subnetting: A Quick Lesson in IPv4 Addressing](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/A-Quick-Lesson-in-IP-Addressing-and-Subnetting.md)
 
-<h2>🔒 Cybersecurity Projects:</h2>
+<h2>🔒 IT Security Projects:</h2>
 
   - [Vulnerability Scanning and Vulnerability Remediation Using Tenable Nessus - coming soon!](https://github.com/infotechaaron/Vulnerability-Scanning/)
 
