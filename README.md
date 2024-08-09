@@ -12,10 +12,9 @@
 
 <h2>💾 System Admin Projects:</h2>
 
-- <b>PowerShell</b>
+  - [Configuring Monitoring on Linux and Windows Servers](https://github.com/infotechaaron/Monitoring-Servers-using-Checkmk)
   - [Active Directory Deployment and Bulk User Creation using PowerShell](https://github.com/infotechaaron/ActiveDirectoryLab)
-- <b>Python</b>
-  - Coming Soon!
+
 
 <h2>🌎 Network Projects:</h2>
 
