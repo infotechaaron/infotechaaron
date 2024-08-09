@@ -28,6 +28,7 @@
   - Wireless Lan Controller (WLC) Configuration - Coming Soon!
   - OSPF Configuration (Single Area) - Coming Soon!
   - [Subnetting: A Quick Lesson in IPv4 Addressing](https://github.com/infotechaaron/Computer-Networking-Configurations-and-Labs/blob/main/Cisco-Networking-Projects/A-Quick-Lesson-in-IP-Addressing-and-Subnetting.md)
+  - [Static Network Address Translation (NAT) Walkthrough Diagram and Config](https://github.com/infotechaaron/Network-Address-Translation-NAT)
 
 <h2>🔒 IT Security Projects:</h2>
 
