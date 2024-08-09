@@ -12,7 +12,7 @@
 
 <h2>💾 System Admin Projects:</h2>
 
-  - [Configure Monitoring and Analysis on Linux and Windows Servers](https://github.com/infotechaaron/Monitoring-Servers-using-Checkmk)
+  - [Configure Monitoring on Linux and Windows Servers for Analysis](https://github.com/infotechaaron/Monitoring-Servers-using-Checkmk)
   - [Active Directory Deployment and Bulk User Creation using PowerShell](https://github.com/infotechaaron/ActiveDirectoryLab)
 
 
